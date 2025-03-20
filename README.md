@@ -1,6 +1,6 @@
 #include<LiquidCrystal.h> 
 // Define the pins for the ultrasonic sensor 
-const int trigPin = 7; 
+const int trigPin = 7;
 const int echoPin = 8; 
 int ledr=A0; 
 int ledg=A1; 
